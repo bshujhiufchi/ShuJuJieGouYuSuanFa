@@ -1,0 +1,9 @@
+
+C:\Users\LENOVO>git remote add origin https://github.com/bshujhiufchi/Data-Structures-and-Algorithms.git
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\LENOVO>git branch -M main
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\LENOVO>git push -u origin main
+fatal: not a git repository (or any of the parent directories): .git
